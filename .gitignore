@@ -1,0 +1,9 @@
+# library files
+*.ali
+*.a
+
+# compilation output
+obj/
+
+# emacs backup files
+*~
