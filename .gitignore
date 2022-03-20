@@ -3,7 +3,7 @@
 *.a
 
 # compilation output
-obj/
+build/
 
 # emacs backup files
 *~
